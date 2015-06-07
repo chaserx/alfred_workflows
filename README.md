@@ -4,7 +4,7 @@
 
 Note: workflows require the [powerpack](https://buy.alfredapp.com/).
 
-## Pairing Notes
+## [Pairing Notes](https://github.com/chaserx/alfred_workflows/blob/master/pairing_notes/PairingNotes.alfredworkflow?raw=true)
 
 A bash script that appends data to a text file with a date prefix similar to:
 
